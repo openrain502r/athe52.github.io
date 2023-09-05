@@ -3,4 +3,4 @@
 i'll update this soon, don'tcha worry :)
 
 
-https://openrain502r.github.com/main.html
+https://openrain502r.github.io/main.html
