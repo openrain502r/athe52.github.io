@@ -1,3 +1,11 @@
 body {
     background-image: url("bg.png");
 }
+img {
+	vertical-align: middle;
+	padding-right:10px
+}
+.spoiler {
+  background-color:black;
+  color: black;
+}
